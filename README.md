@@ -1,4 +1,5 @@
-Bilibili(b站)视频下载 ![enter image description here](Pic/logo.png)
+bilibili视频下载小工具
+![enter image description here](Pic/logo.png)
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/moviepy-0.2.3.2-green.svg) ![](https://img.shields.io/badge/pyqt-5.9.7-green.svg)
 
@@ -24,7 +25,7 @@ pip3 install -r requirements.txt
 
 ![view](Pic/view.png)
 
-![operation](F:\Bilibili_video_download\Bilibili_video_download-master\Pic\operation.png)
+![operation](Pic\operation.png)
 
 ## 总结
 > 欢迎大家一起学习交流，QQ群657701736
